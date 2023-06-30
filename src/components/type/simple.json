@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_type_simples",
+  "info": {
+    "displayName": "simple"
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "integer"
+    },
+    "sale_price": {
+      "type": "integer"
+    }
+  }
+}

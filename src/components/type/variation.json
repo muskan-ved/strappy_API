@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_type_variations",
+  "info": {
+    "displayName": "variation"
+  },
+  "options": {},
+  "attributes": {
+    "time_slot": {
+      "type": "string"
+    }
+  }
+}

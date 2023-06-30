@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_type_subscriptions",
+  "info": {
+    "displayName": "subscription"
+  },
+  "options": {},
+  "attributes": {
+    "subscription_name": {
+      "type": "string"
+    },
+    "expire_after": {
+      "type": "string"
+    },
+    "signup_free": {
+      "type": "string"
+    }
+  }
+}
